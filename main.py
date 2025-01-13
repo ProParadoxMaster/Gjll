@@ -4,7 +4,7 @@ import requests
 from telebot import types
 
 # Your bot's API key from Telegram
-api = 'YOUR_TELEGRAM_API_KEY'
+api = '7626493889:AAHERZUnMu6Qbms5bWpggooESfyWETvUMRU'
 bot = telebot.TeleBot(api)
 
 class BigfatCCShop:
