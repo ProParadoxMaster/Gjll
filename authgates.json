@@ -1,0 +1,12 @@
+{
+    "getaway": [
+        {
+            "gate": "Braintree",
+            "cmd": "B3"
+        },
+        {
+            "gate": "Stripe",
+            "cmd": "S1"
+        }
+    ]
+}
