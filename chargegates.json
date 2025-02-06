@@ -1,0 +1,12 @@
+{
+    "getaway": [
+        {
+            "gate": "PayPal",
+            "cmd": "PP1"
+        },
+        {
+            "gate": "Square",
+            "cmd": "SQ1"
+        }
+    ]
+}
